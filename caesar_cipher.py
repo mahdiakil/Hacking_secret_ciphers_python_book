@@ -1,4 +1,4 @@
-#!bin/python3
+#!/usr/bin/python3
 
 def mode_fn():
     ans = int(input("choose '1' to encrypt and '2' to decrypt '0' to exit: "))
