@@ -78,7 +78,7 @@ def encrypt_text(message, key):
     i = 0
     for m in message:
         list_of_chars.append(m)
-        new_list = split_list(list_of_chars, key)
+    new_list = split_list(list_of_chars, key)
 
     enc_list = ""
     j =0
