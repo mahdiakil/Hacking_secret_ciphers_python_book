@@ -6,3 +6,20 @@
 
 ### Most solution will be mine but of course some will be from the book as well.
 
+### I tried to make the solutions as general as possibe
+
+## File contents:
+1. Caesar_cipher.py
+	* Asks user for a msg, a key, and a mode (encrypt/decrypt)
+	* Contains an encryption fn, decryption fn and a mode fn which lets users choose to encrypt or decrypt or exit.
+2. hacking_caesar_cipher.py
+	* Brute forces all keys (0-26) and prints the result of each key
+3. transposition_cipher.py
+	* Asks user for a msg, a key, and a mode (encrypt/decrypt)
+	* Contains an encryption fn, decryption fn and calls the mode_fn from caesar_cipher file.
+4. transposition_test.py
+	* Creats random strings and tests the encryption and decryption of the transposition_cipher.py
+5. transposition_file_cipher.py
+	* Reads a txt file and uses the fns from the transposition_cipher (encryption and decryption) to either encrypt or decrypt the file
+	* A user needs to provide a path for the txt file to encrypt/decrypt
+	
