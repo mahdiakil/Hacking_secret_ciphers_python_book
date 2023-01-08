@@ -30,3 +30,6 @@
 	* Given an encrypted message (hard coded), one can try all the keys from 1 till the len(message) and checks if the result is in english using the detect_english.py.
 8. crypto_math.py
 	* Includes fns that will be used such as finding gcd and modular inverse of 2 numbers
+9. affine_cipher.py
+	* a multiplicative cipher, uses crypto_math.py
+
