@@ -26,3 +26,5 @@
 	* A user needs to provide a path for the txt file to encrypt/decrypt
 6. detect_english.py and dictionary.txt
 	* loads a dictionary and returns the percentage of english words and letters in a given message
+7. hack_transposition_cipher.py
+	* Given an encrypted message (hard coded), one can try all the keys from 1 till the len(message) and checks if the result is in english using the detect_english.py.
