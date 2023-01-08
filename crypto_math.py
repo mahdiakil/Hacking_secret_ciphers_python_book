@@ -1,7 +1,7 @@
 def gcd(a,b):
     # Return GCD of (a,b) using Euclid's Algorithm
     while a != 0:
-        a, b = a % b, a
+        a, b = b % a, a
     return b
 
 def find_mode_inverse(a, m):
