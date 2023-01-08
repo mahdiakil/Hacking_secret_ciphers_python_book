@@ -1,3 +1,5 @@
+# Note that: each line of code written here could be written in a hundren way better than this 'I AM BAD AT PYTHON!'
+
 ## This repo is used by me to improve my python and cryptography 'skills'
 
 ## Hacking Secret Ciphers With Python Book by Al Sweigart [book link](https://inventwithpython.com/cracking/ "book")
