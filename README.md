@@ -24,5 +24,5 @@
 5. transposition_file_cipher.py
 	* Reads a txt file and uses the fns from the transposition_cipher (encryption and decryption) to either encrypt or decrypt the file
 	* A user needs to provide a path for the txt file to encrypt/decrypt
-6. detect_english.py
+6. detect_english.py and dictionary.txt
 	* loads a dictionary and returns the percentage of english words and letters in a given message
