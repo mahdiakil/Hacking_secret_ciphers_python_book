@@ -1,3 +1,10 @@
+# To use, type this code:
+    # import detectEnglish
+# detectEnglish.isEnglish(someString) # returns True or False
+# (There must be a "dictionary.txt" file in this directory with all English 8. # words in it, one word per line. You can download this from
+# http://invpy.com/dictionary.txt)
+
+
 UPPER_LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 LETTERS_AND_SPACES = UPPER_LETTERS + UPPER_LETTERS.lower() + ' \t\n'
 
