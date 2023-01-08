@@ -10,7 +10,7 @@
 
 ### I tried to make the solutions as general as possibe
 
-## File contents:
+## repo contents:
 1. Caesar_cipher.py
 	* Asks user for a msg, a key, and a mode (encrypt/decrypt)
 	* Contains an encryption fn, decryption fn and a mode fn which lets users choose to encrypt or decrypt or exit.
@@ -28,3 +28,5 @@
 	* loads a dictionary and returns the percentage of english words and letters in a given message
 7. hack_transposition_cipher.py
 	* Given an encrypted message (hard coded), one can try all the keys from 1 till the len(message) and checks if the result is in english using the detect_english.py.
+8. crypto_math.py
+	* Includes fns that will be used such as finding gcd and modular inverse of 2 numbers
