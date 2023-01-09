@@ -32,4 +32,5 @@
 	* Includes fns that will be used such as finding gcd and modular inverse of 2 numbers
 9. affine_cipher.py
 	* a multiplicative cipher, uses crypto_math.py
-
+10. affine_key_test.py
+	* a program to test the keyspace of affine cipher which adds up to 7125 possible keys only!
