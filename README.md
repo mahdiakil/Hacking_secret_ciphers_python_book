@@ -1,5 +1,3 @@
-# Note that: each line of code written here could be written in a hundred ways better than this 'I AM BAD AT PYTHON!'
-
 ## This repo is used by me to improve my python and cryptography 'skills'
 
 ## Hacking Secret Ciphers With Python Book by Al Sweigart [book link](https://inventwithpython.com/cracking/ "book")
@@ -38,3 +36,9 @@
 	* a program to hack the affine cipher, need to have a proper message.. (this cshould be improved)
 12. substitution_cipher.py
 	* a program that uses the substitution_cipher (could be improved to let the user add their own message or keys?)
+
+## You want to contribute?
+Please do!
+
+## Who do I talk to?
+The owner of this repo is Mahdi Akil, Phd student at Karlstad University Sweden. mahdi.akil@kau.se
