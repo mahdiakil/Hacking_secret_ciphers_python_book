@@ -36,3 +36,5 @@
 	* a program to test the keyspace of affine cipher which adds up to 7125 possible keys only!
 11. hacking_affine_cipher.py
 	* a program to hack the affine cipher, need to have a proper message.. (this cshould be improved)
+12. substitution_cipher.py
+	* a program that uses the substitution_cipher (could be improved to let the user add their own message or keys?)
