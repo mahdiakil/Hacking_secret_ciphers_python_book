@@ -41,4 +41,4 @@
 Please do!
 
 ## Who do I talk to?
-The owner of this repo is Mahdi Akil, Phd student at Karlstad University Sweden. Reach me on mahdi.akil@kau.se
+Mahdi Akil, Phd student at Karlstad University, Sweden. Reach me on mahdi.akil@kau.se
