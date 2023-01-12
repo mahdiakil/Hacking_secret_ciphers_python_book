@@ -36,6 +36,8 @@
 	* a program to hack the affine cipher, need to have a proper message.. (this cshould be improved)
 12. substitution_cipher.py
 	* a program that uses the substitution_cipher (could be improved to let the user add their own message or keys?)
+13. make_word_pattern.py
+	* this program uses dictionary.txt in order to create another python file 'word_pattern.py' which creates patterns for all the words in the dictionary and puts them in a dictionary. Som later we can call 'word_pattern.all_patterns['0.1.2.1.1.3.4']' which will print all the words of that has the pattern '0.1.2.1.1.3.4'
 
 ## You want to contribute?
 Please do!
