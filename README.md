@@ -40,7 +40,7 @@
 	* this program uses dictionary.txt in order to create another python file 'word_pattern.py' which creates patterns for all the words in the dictionary and puts them in a dictionary. Som later we can call 'word_pattern.all_patterns['0.1.2.1.1.3.4']' which will print all the words of that has the pattern '0.1.2.1.1.3.4'
 
 ## You want to contribute?
-Please do!
+Each file in this repo could be improved. So, Please do contribute!
 
 ## Who do I talk to?
 Mahdi Akil, Phd student at Karlstad University, Sweden. Reach me on mahdi.akil@kau.se
